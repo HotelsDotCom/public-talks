@@ -16,7 +16,7 @@ Having a list of our presentations on GitHub has the following benefits:
 | Date | Event | Presentation Title | Topic(s) | Video/Slides |
 |:-----|:------|:-------------------|:---------|:-------------|
 | 2019-05-22 | [Data Works Summit Washington](https://dataworkssummit.com/washington-dc-2019/)              | Herding Elephants: Seamless Data Access in Multi-Cluster Clouds            | Cloud, Big Data, Hadoop, Hive | [Video](https://youtu.be/Wp0Apq5xShI) |
-| 2019-03-21 | [Data Works Summit Barcelona](https://dataworkssummit.com/barcelona-2019/) | Mutant Tests Too: The SQL  | Hive, testing | [Video](https://youtu.be/PchdF0xAbEg) - [Slides](https://www.slideshare.net/Hadoop_Summit/mutant-tests-too-the-sql) 
+| 2019-03-21 | [Data Works Summit Barcelona](https://dataworkssummit.com/barcelona-2019/) | Mutant Tests Too: The SQL  | Hive, Testing | [Video](https://youtu.be/PchdF0xAbEg) - [Slides](https://www.slideshare.net/Hadoop_Summit/mutant-tests-too-the-sql) 
 
 ## 2018
 | Date       | Event                                                                         | Presentation Title                                                  | Topic(s)                            | Video/Slides                                                                                                                                                                    |
